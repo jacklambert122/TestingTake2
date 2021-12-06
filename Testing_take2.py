@@ -6,3 +6,6 @@ Created on Mon Dec  6 10:46:40 2021
 """
 def JackFirstFunc():
     print("Please Work!")
+    
+def JackSecondFunc():
+    print("Ok sweet - we have 2 commits into my branch")
